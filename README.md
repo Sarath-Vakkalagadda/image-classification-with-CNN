@@ -10,7 +10,7 @@ Pandas (for data manipulation)
 
 Dataset is taken from kaggle - https://www.kaggle.com/datasets/salader/dogs-vs-cats
 
-#CNN Architecture
+# CNN Architecture
 The model consists of three convolutional layers with increasing filter sizes (32, 64, 128).
 Each convolutional layer uses a 3x3 kernel for feature extraction.
 Rectified Linear Unit (ReLU) activation functions are applied to introduce non-linearity.
